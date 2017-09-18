@@ -1,0 +1,90 @@
+/*  Fonts  */
+@font-face {
+  font-family: 'raleway-regular';
+  src: url("../fonts/raleway-regular.eot");
+  src: url("../fonts/raleway-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-regular.woff") format("woff"), url("../fonts/raleway-regular.ttf") format("truetype"), url("../fonts/raleway-regular.svg#raleway-regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'raleway-semibold';
+  src: url("../fonts/raleway-semibold.eot");
+  src: url("../fonts/raleway-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-semibold.woff") format("woff"), url("../fonts/raleway-semibold.ttf") format("truetype"), url("../fonts/raleway-semibold.svg#raleway-semibold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'raleway-bold';
+  src: url("../fonts/raleway-bold.eot");
+  src: url("../fonts/raleway-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-bold.woff") format("woff"), url("../fonts/raleway-bold.ttf") format("truetype"), url("../fonts/raleway-bold.svg#raleway-bold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+.carousel {
+  margin-top: -20px;
+  height: 500px; }
+
+.carousel .item {
+  height: 500px; }
+
+.item img {
+  width: 100%; }
+
+.carousel-caption p {
+  margin: 20px 0;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "raleway-semibold"; }
+
+.contList .row .col-sm-12 {
+  padding-top: 80px;
+  text-align: center; }
+
+.contList .row .col-sm-12 h1 {
+  color: #5d5d5d;
+  font-family: "raleway-semibold"; }
+
+.contList .row .col-sm-12 p {
+  margin: 15px 0;
+  color: #8a8a8a;
+  font-family: "raleway-regular"; }
+
+.contList .row .col-sm-12 p a {
+  color: #868686; }
+
+.contList .divider {
+  margin: 40px 0 20px 0; }
+
+.labelpage {
+  margin-top: 30px; }
+
+.tab-content .feature {
+  padding: 30px 0; }
+
+.tab-content .feature .feature-heading {
+  font-size: 50px;
+  color: #28a4c9;
+  margin-top: 120px; }
+
+.tab-content .feature .text-muted {
+  font-size: 28px;
+  color: #999;
+  padding-left: 20px; }
+
+.tab-content .feature p {
+  margin-top: 20px;
+  color: #5a5a5a;
+  line-height: 1.8;
+  font-wieght: 200;
+  font-family: "raleway-regular"; }
+
+.foot {
+  padding-bottom: 50px; }
+
+.foot .foot-txt {
+  color: #999;
+  font-family: "raleway-regular"; }
+
+.modal-body {
+  color: #979797;
+  font-family: "raleway-regular";
+  line-height: 1.8; }
+
+/*# sourceMappingURL=index.css.map */
